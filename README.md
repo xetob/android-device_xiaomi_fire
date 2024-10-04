@@ -1,4 +1,4 @@
-# Android Device tree for the Redmi 12 (codenamed "fire")
+# Android device tree for Redmi 12 (fire)
 
 ```
 #
