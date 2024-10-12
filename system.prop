@@ -8,10 +8,3 @@ persist.dbg.wfc_avail_ovr=1
 
 # Zygote
 zygote.critical_window.minute=10
-
-В blaze_(кодовое имя смарта) в 
-# Blaze Specific
-#BLAZE_BUILD_TYPE := OFFICIAL
-BLAZE_MAINTAINER := Veynamer
-WITH_GAPPS := true
-Вот так примерно как у меня
